@@ -22,8 +22,8 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
    <br>
    
    ```js
-   const express = require('express')
    const app = express()
+   const express = require('express')
 
    
    // Question 1 goes here
@@ -76,7 +76,7 @@ Create a ```GET``` endpoint that retrieves all patients and displays their:
 - ```date_of_birth```
 
 <br>
-
+gi
 ## 2. Retrieve all providers
 Create a ```GET``` endpoint that displays all providers with their:
 - ```first_name```
